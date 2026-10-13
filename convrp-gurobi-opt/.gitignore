@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Gurobi logs and tune files
+*.log
+*.prm
+*.sol
+*.ilp
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store

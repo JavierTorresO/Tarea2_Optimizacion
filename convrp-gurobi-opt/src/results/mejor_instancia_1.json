@@ -1,0 +1,335 @@
+{
+  "instancia": 1,
+  "configuracion": "tuned",
+  "objetivo": 945.4100000000001,
+  "status": 2,
+  "gap": 9.519679292585421e-05,
+  "arcos": [
+    {
+      "i": 0,
+      "j": 2,
+      "dia": 1,
+      "vehiculo": 1
+    },
+    {
+      "i": 4,
+      "j": 16,
+      "dia": 1,
+      "vehiculo": 3
+    },
+    {
+      "i": 0,
+      "j": 9,
+      "dia": 1,
+      "vehiculo": 3
+    },
+    {
+      "i": 0,
+      "j": 14,
+      "dia": 1,
+      "vehiculo": 2
+    },
+    {
+      "i": 14,
+      "j": 16,
+      "dia": 1,
+      "vehiculo": 2
+    },
+    {
+      "i": 15,
+      "j": 16,
+      "dia": 1,
+      "vehiculo": 1
+    },
+    {
+      "i": 1,
+      "j": 13,
+      "dia": 1,
+      "vehiculo": 1
+    },
+    {
+      "i": 2,
+      "j": 1,
+      "dia": 1,
+      "vehiculo": 1
+    },
+    {
+      "i": 5,
+      "j": 4,
+      "dia": 1,
+      "vehiculo": 3
+    },
+    {
+      "i": 7,
+      "j": 5,
+      "dia": 1,
+      "vehiculo": 3
+    },
+    {
+      "i": 8,
+      "j": 7,
+      "dia": 1,
+      "vehiculo": 3
+    },
+    {
+      "i": 9,
+      "j": 8,
+      "dia": 1,
+      "vehiculo": 3
+    },
+    {
+      "i": 10,
+      "j": 15,
+      "dia": 1,
+      "vehiculo": 1
+    },
+    {
+      "i": 11,
+      "j": 10,
+      "dia": 1,
+      "vehiculo": 1
+    },
+    {
+      "i": 13,
+      "j": 11,
+      "dia": 1,
+      "vehiculo": 1
+    },
+    {
+      "i": 0,
+      "j": 3,
+      "dia": 2,
+      "vehiculo": 1
+    },
+    {
+      "i": 6,
+      "j": 16,
+      "dia": 2,
+      "vehiculo": 3
+    },
+    {
+      "i": 0,
+      "j": 9,
+      "dia": 2,
+      "vehiculo": 3
+    },
+    {
+      "i": 0,
+      "j": 14,
+      "dia": 2,
+      "vehiculo": 2
+    },
+    {
+      "i": 14,
+      "j": 16,
+      "dia": 2,
+      "vehiculo": 2
+    },
+    {
+      "i": 15,
+      "j": 16,
+      "dia": 2,
+      "vehiculo": 1
+    },
+    {
+      "i": 2,
+      "j": 13,
+      "dia": 2,
+      "vehiculo": 1
+    },
+    {
+      "i": 3,
+      "j": 2,
+      "dia": 2,
+      "vehiculo": 1
+    },
+    {
+      "i": 4,
+      "j": 6,
+      "dia": 2,
+      "vehiculo": 3
+    },
+    {
+      "i": 5,
+      "j": 4,
+      "dia": 2,
+      "vehiculo": 3
+    },
+    {
+      "i": 7,
+      "j": 5,
+      "dia": 2,
+      "vehiculo": 3
+    },
+    {
+      "i": 9,
+      "j": 7,
+      "dia": 2,
+      "vehiculo": 3
+    },
+    {
+      "i": 10,
+      "j": 15,
+      "dia": 2,
+      "vehiculo": 1
+    },
+    {
+      "i": 12,
+      "j": 10,
+      "dia": 2,
+      "vehiculo": 1
+    },
+    {
+      "i": 13,
+      "j": 12,
+      "dia": 2,
+      "vehiculo": 1
+    },
+    {
+      "i": 0,
+      "j": 16,
+      "dia": 3,
+      "vehiculo": 2
+    },
+    {
+      "i": 0,
+      "j": 3,
+      "dia": 3,
+      "vehiculo": 1
+    },
+    {
+      "i": 6,
+      "j": 16,
+      "dia": 3,
+      "vehiculo": 3
+    },
+    {
+      "i": 0,
+      "j": 9,
+      "dia": 3,
+      "vehiculo": 3
+    },
+    {
+      "i": 15,
+      "j": 16,
+      "dia": 3,
+      "vehiculo": 1
+    },
+    {
+      "i": 1,
+      "j": 13,
+      "dia": 3,
+      "vehiculo": 1
+    },
+    {
+      "i": 3,
+      "j": 1,
+      "dia": 3,
+      "vehiculo": 1
+    },
+    {
+      "i": 4,
+      "j": 6,
+      "dia": 3,
+      "vehiculo": 3
+    },
+    {
+      "i": 7,
+      "j": 4,
+      "dia": 3,
+      "vehiculo": 3
+    },
+    {
+      "i": 8,
+      "j": 7,
+      "dia": 3,
+      "vehiculo": 3
+    },
+    {
+      "i": 9,
+      "j": 8,
+      "dia": 3,
+      "vehiculo": 3
+    },
+    {
+      "i": 11,
+      "j": 15,
+      "dia": 3,
+      "vehiculo": 1
+    },
+    {
+      "i": 12,
+      "j": 11,
+      "dia": 3,
+      "vehiculo": 1
+    },
+    {
+      "i": 13,
+      "j": 12,
+      "dia": 3,
+      "vehiculo": 1
+    }
+  ],
+  "asignaciones": [
+    {
+      "cliente": 1,
+      "vehiculo": 1
+    },
+    {
+      "cliente": 2,
+      "vehiculo": 1
+    },
+    {
+      "cliente": 3,
+      "vehiculo": 1
+    },
+    {
+      "cliente": 4,
+      "vehiculo": 3
+    },
+    {
+      "cliente": 5,
+      "vehiculo": 3
+    },
+    {
+      "cliente": 6,
+      "vehiculo": 3
+    },
+    {
+      "cliente": 7,
+      "vehiculo": 3
+    },
+    {
+      "cliente": 8,
+      "vehiculo": 3
+    },
+    {
+      "cliente": 9,
+      "vehiculo": 3
+    },
+    {
+      "cliente": 10,
+      "vehiculo": 1
+    },
+    {
+      "cliente": 11,
+      "vehiculo": 1
+    },
+    {
+      "cliente": 12,
+      "vehiculo": 1
+    },
+    {
+      "cliente": 13,
+      "vehiculo": 1
+    },
+    {
+      "cliente": 14,
+      "vehiculo": 2
+    },
+    {
+      "cliente": 15,
+      "vehiculo": 1
+    }
+  ]
+}
